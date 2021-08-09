@@ -2,7 +2,7 @@
 
 **Pre requirements**
 
-1. Instaall Nugget SendGrid
-2. Create account in https://sendgrid.com/ and verified account email
+1. Install Nugget SendGrid
+2. Create account in https://sendgrid.com/ and verified email
 
-**optional: install Nugget Swagger**
+**Optional: install Nugget Swagger**
